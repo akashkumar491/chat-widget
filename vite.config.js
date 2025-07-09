@@ -11,5 +11,6 @@ export default defineConfig({
         entryFileNames: 'widget-app.js',
       },
     },
+    cssCodeSplit: false
   },
 });
