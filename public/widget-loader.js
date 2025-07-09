@@ -6,7 +6,7 @@
   document.body.appendChild(container);
 
   const script = document.createElement('script');
-  script.src = `https://your-widget-domain.com/widget-app.js?propertyId=${propertyId}`;
+  script.src = `https://chat-widget-ashen.vercel.app/widget-app.js?propertyId=${propertyId}`;
   script.type = 'module';
   script.async = true;
 
